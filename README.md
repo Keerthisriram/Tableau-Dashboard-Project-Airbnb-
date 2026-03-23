@@ -8,11 +8,11 @@ This project aims to analyze Airbnb data using Tableau to uncover market trends,
 - <a href ="https://github.com/Keerthisriram/Tableau-Dashboard-Project-Airbnb-/blob/main/Tableau%20Dashboard.png"> Dashboard Interaction</a>
 
 ## Key Performance Indicators(KPI)
-1.Which zip codes are charges the most in Airbnb.
-2.Which year is best for renting out Airbnb( Highest revenue per year in Airbnb)
-3.Which bedrooms brings more money?
-4.Distinct Count of available bedrooms?
-5.Show the Price differences for each locations?
+- 1.Which zip codes are charges the most in Airbnb.
+- 2.Which year is best for renting out Airbnb( Highest revenue per year in Airbnb)
+- 3.Which bedrooms brings more money?
+- 4.Distinct Count of available bedrooms?
+- 5.Show the Price differences for each locations?
 
 ## Process:
 
@@ -20,6 +20,10 @@ This project aims to analyze Airbnb data using Tableau to uncover market trends,
 - Analyse the data and create the measures and dimensions for created dataset
 - Create the visuals using dataset in tableau.
 - Create the dashboard sheet and Combined all visuals into one sheet.
+
+## Dashboard
+<img width="2351" height="1555" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/8586dd60-19bc-4ede-81d0-c161ba4fe0ab" />
+
 
 ## Conclusion:
 
